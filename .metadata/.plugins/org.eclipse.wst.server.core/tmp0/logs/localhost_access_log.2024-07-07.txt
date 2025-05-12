@@ -1,0 +1,6 @@
+127.0.0.1 - - [07/Jul/2024:20:24:22 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [07/Jul/2024:20:24:23 +0530] "GET /CountryCapitalApp/ HTTP/1.1" 200 314
+0:0:0:0:0:0:0:1 - - [07/Jul/2024:20:24:23 +0530] "GET /CountryCapitalApp/country.jpg HTTP/1.1" 200 288049
+0:0:0:0:0:0:0:1 - - [07/Jul/2024:20:24:25 +0530] "GET /CountryCapitalApp/pageurl HTTP/1.1" 200 675
+0:0:0:0:0:0:0:1 - - [07/Jul/2024:20:24:28 +0530] "GET /CountryCapitalApp/capitalurl?country=1 HTTP/1.1" 200 115
+0:0:0:0:0:0:0:1 - - [07/Jul/2024:20:24:30 +0530] "GET /CountryCapitalApp/pageurl HTTP/1.1" 200 675

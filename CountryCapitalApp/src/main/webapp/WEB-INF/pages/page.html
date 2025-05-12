@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>CountryCapitalApp</title>
+</head>
+<body>
+	<h1 style="color:red;text-align:center">Html to Servlet Communication using Java Script</h1>
+		<form name="frm" action="capitalurl" method="get">
+		<b style=color:green>Select Country</b>::<select name="country" onchange="send()">
+			<option value="-1">--Select--</option>
+			<option value="0">INDIA</option>
+			<option value="1">USA</option>
+			<option value="2">CANADA</option>
+			<option value="3">PAKISTAN</option>
+		</select>
+		</form>
+		<script type="text/javascript">
+			function send(){
+				frm.submit();
+			}
+		</script>
+</body>
+</html>

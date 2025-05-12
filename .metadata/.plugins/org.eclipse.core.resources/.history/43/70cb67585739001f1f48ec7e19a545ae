@@ -1,0 +1,22 @@
+
+<html>
+<body bgcolor="yellow" text="red" style=text-align:center><h1>Registration Form</h1>
+<form action="http://localhost:8080/FormDemoApp/formurl" method="get">
+	<table border="2">
+		<tr><td>Enter Name:</td><td><input type="text" name="uname"></td></tr>
+		<tr><td>Enter Contact Number:</td><td><input type="text" name="ucontact"></td></tr>
+		<tr><td>Enter Course:</td>
+		<td>
+			<select name="course"  multiple>
+				<option value="Core Java">Core Java</option>
+				<option value="Adv Java">Advance Java</option>
+				<option value="Hibernate">Hibernate</option>
+				<option value="Spring">Spring</option>
+				<option value="Web Services">Web Service</option>
+			</select>
+		</td>
+		<tr><td><input type="submit"  value="Submit" ></td></tr>
+	</table>
+</form>
+</body>
+</html>

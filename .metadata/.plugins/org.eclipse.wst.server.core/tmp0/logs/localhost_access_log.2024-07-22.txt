@@ -1,0 +1,10 @@
+127.0.0.1 - - [22/Jul/2024:14:19:00 +0530] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [22/Jul/2024:14:19:03 +0530] "GET /VoterApp/ HTTP/1.1" 200 1054
+127.0.0.1 - - [22/Jul/2024:14:19:04 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [22/Jul/2024:14:19:30 +0530] "POST /VoterApp/voteurl HTTP/1.1" 200 196
+127.0.0.1 - - [22/Jul/2024:14:19:30 +0530] "GET /VoterApp/images/home.jpg HTTP/1.1" 200 288049
+127.0.0.1 - - [22/Jul/2024:14:19:48 +0530] "POST /VoterApp/voteurl HTTP/1.1" 500 1410
+127.0.0.1 - - [22/Jul/2024:14:20:24 +0530] "POST /VoterApp/voteurl HTTP/1.1" 500 1398
+127.0.0.1 - - [22/Jul/2024:14:20:44 +0530] "POST /VoterApp/voteurl HTTP/1.1" 500 1398
+127.0.0.1 - - [22/Jul/2024:14:30:14 +0530] "POST /VoterApp/voteurl HTTP/1.1" 200 196
+127.0.0.1 - - [22/Jul/2024:14:30:35 +0530] "POST /VoterApp/voteurl HTTP/1.1" 500 1406

@@ -1,0 +1,8 @@
+
+Jul 22, 2024 14:19:03.24 NEW SESSION
+Jul 22, 2024 14:19:03.26 *** You are running in background task mode. ***
+Jul 22, 2024 14:19:03.26 *** You are running in headless mode.
+Jul 22, 2024 14:19:03.36 console.error: "C:\\Users\\ragha\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\9fx9578o.default-release-1707079026127" "" 0 ".purge.bg_rm" "HttpCache"
+Jul 22, 2024 14:19:03.36 console.error: "Pinged glean, waiting for submission."
+Jul 22, 2024 14:19:03.98 [ERROR glean_core::database] Failed to record metric 'app_build' into glean_client_info: Error { kind: Rkv(IoError(Os { code: 5, kind: PermissionDenied, message: "Access is denied." })) }
+Jul 23, 2024 18:23:00.38 [ERROR glean_core::database] Failed to record metric 'metrics#sequence' into glean_internal_info: Error { kind: Rkv(IoError(Os { code: 5, kind: PermissionDenied, message: "Access is denied." })) }
